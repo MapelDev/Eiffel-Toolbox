@@ -10,4 +10,8 @@ The Eiffel-Toolbox source code is dependant on the EIFFEL-GAME2 library for eiff
 
 ## How to use
 
-Each cluster/sub-directory of Eiffel-Toolbox contains a tool or pieces of code that could be used inside any other eiffel projects, simply adapt it to your need and remove any dependencies if unwanted. Each code cluster contains its own markdown file explaining the piece of code and how to use it, as well as the source code containing explanations about its various systems and potential uses.
+Each cluster/sub-directory of Eiffel-Toolbox contains a tool or pieces of code that could be used inside any other eiffel projects, simply adapt it to your need and remove any dependencies if unwanted. Each code cluster contains its own markdown file (these .md files are not yet implemented*) explaining the piece of code and how to use it, as well as the source code containing explanations about its various systems and potential uses.
+
+## Copyrights
+
+Each eiffel classes have been written by the author of this repository, Florent Perreault, all .e files are supposed to have their copyright notices at the bottoms and usage clauses if there is any. Most often they will be under MIT by default and attributed to either KontinuumGames, or the Author: Florent Perreault or his Username: MapelSiroup. for each of these they fall under the same entity, that is, the author of the repository. You may share and distribute any classes on its own if you so choose but you must adere to not change any references to the orginal author or to this repository.
