@@ -6,7 +6,9 @@ A collection of practical, reusable tools/utilities or blocks of functionality, 
 
 ## Dependencies
 
-The Eiffel-Toolbox source code is dependant on the EIFFEL-GAME2 library for eiffel. As it is used for the rendering portions of the demo programs, it is easy to make the Eiffel-Toolbox systems back into a standalone state provided the user/programmer is accustomed to the eiffel programming language, however its integration with EIFFEL-GAME2 is provided out of box for convenience and demo purposes.
+The Eiffel-Toolbox source code is only dependant on the EIFFEL-GAME2 library for eiffel as it is used for the rendering portions of the demo programs. It is easy to make the Eiffel-Toolbox systems back into a standalone state provided the user/programmer is accustomed to the eiffel programming language, however its integration with EIFFEL-GAME2 is provided out of box for convenience and demo purposes.
+
+* To download the EIFFEL-GAME2 64bit dll libraries needed: [Eiffel Game2 Download](https://www.eiffelgame2.org/index.php/download/) or view the EG2 Github repo [Installation Instructions](https://github.com/tioui/Eiffel_Game2#installation-on-windows)
 
 ## How to use
 
@@ -14,4 +16,4 @@ Each cluster/sub-directory of Eiffel-Toolbox contains a tool or pieces of code t
 
 ## Copyrights
 
-Each eiffel classes have been written by the author of this repository, `Florent Perreault`. All `*.e` files are supposed to have their copyright notices and usage clauses if there is any in the note footer at the bottom. Most often they will be under MIT by default and attributed to either KontinuumGames, the Author: Florent Perreault or his Username: MapelSiroup. for each of these they fall under the same entity, that is, the author of the repository. You may share and distribute any classes on its own if you so choose but you must adere to not change any references to the orginal author or to this repository.
+Each eiffel classes have been written by the author of this repository, `Florent Perreault`. All `*.e` files are supposed to have their copyright notices and usage clauses if there is any in the note footer at the bottom. Most often they will be under MIT by default and attributed to either `KontinuumGames`, the Author: `Florent Perreault` or his Username: `MapelSiroup`. For each of these they fall under the same entity, that is, the author of the repository. You may share, adapt and/or distribute any classes on its own if you so choose but **you must adhere to not change any references to the orginal author or to this repository**.
