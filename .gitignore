@@ -1,0 +1,7 @@
+EIFGENs
+*.dll
+*.rc
+*.log
+
+Documentation
+.vscode
