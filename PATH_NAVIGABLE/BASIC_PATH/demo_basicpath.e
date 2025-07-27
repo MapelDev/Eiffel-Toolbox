@@ -169,6 +169,6 @@ note
 	license:   "MIT"
 	source: "[
 			Eiffel Toolbox, 
-			Github: http://www.gitlab.com/MapelSiroup/Eiffel-Toolbox
+			Github: https://github.com/MapelSiroup/Eiffel-Toolbox
 		]"
 end -- class DEMO_BASICPATH

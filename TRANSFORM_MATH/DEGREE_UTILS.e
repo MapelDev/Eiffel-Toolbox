@@ -48,5 +48,11 @@ feature -- Utilities
         ensure
             between_0_and_2pi: Result >= 0.0 and Result < (2.0 * {MATH_CONST}.pi)
         end
-
-end
+note
+	copyright: "Copyright (c) 2025, KontinuumGames"
+	license:   "MIT, redistributable, keep author references"
+	source: "[
+			Eiffel Toolbox,
+			Github: https://github.com/MapelSiroup/Eiffel-Toolbox
+		]"
+end -- DEGREES UTILS

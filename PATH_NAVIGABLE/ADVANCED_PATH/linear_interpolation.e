@@ -38,4 +38,11 @@ feature -- Implementation
             Result := [p1.x + (p2.x - p1.x) * t, p1.y + (p2.y - p1.y) * t]
         end
 
+note
+	copyright: "Copyright (c) 2024, Florent Perreault"
+	license:   "MIT"
+	source: "[
+			Eiffel Toolbox,
+			Github: https://github.com/MapelSiroup/Eiffel-Toolbox
+		]"
 end

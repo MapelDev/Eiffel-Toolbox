@@ -41,4 +41,11 @@ feature -- Implementation
     points: ARRAY[TUPLE[x, y: REAL_64]]
     interpolation: INTERPOLATION
 
+note
+	copyright: "Copyright (c) 2024, Florent Perreault"
+	license:   "MIT"
+	source: "[
+			Eiffel Toolbox,
+			Github: https://github.com/MapelSiroup/Eiffel-Toolbox
+		]"
 end

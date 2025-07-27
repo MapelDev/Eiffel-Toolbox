@@ -139,4 +139,11 @@ feature -- Output
 invariant
     valid_components: True
 
-end
+note
+	copyright: "Copyright (c) 2025, KontinuumGames"
+	license:   "MIT, redistributable, keep author references"
+	source: "[
+			Eiffel Toolbox,
+			Github: https://github.com/MapelSiroup/Eiffel-Toolbox
+		]"
+end -- REAL VECTOR2

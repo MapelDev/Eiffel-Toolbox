@@ -243,4 +243,11 @@ invariant
     -- Always valid vector
     valid_coordinates: True
 
-end
+note
+	copyright: "Copyright (c) 2025, KontinuumGames"
+	license:   "MIT, redistributable, keep author references"
+	source: "[
+			Eiffel Toolbox,
+			Github: https://github.com/MapelSiroup/Eiffel-Toolbox
+		]"
+end -- INTEGER VECTOR2

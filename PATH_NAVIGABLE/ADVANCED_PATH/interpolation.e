@@ -13,4 +13,11 @@ feature -- Access
         deferred
         end
 
+note
+	copyright: "Copyright (c) 2024, Florent Perreault"
+	license:   "MIT"
+	source: "[
+			Eiffel Toolbox,
+			Github: https://github.com/MapelSiroup/Eiffel-Toolbox
+		]"
 end

@@ -118,4 +118,11 @@ feature {NONE}
 	nav_agent_dbg_color: GAME_COLOR
 		-- Debug color for lerp_nav_agent demo
 
+note
+	copyright: "Copyright (c) 2024, Florent Perreault"
+	license:   "MIT"
+	source: "[
+			Eiffel Toolbox,
+			Github: https://github.com/MapelSiroup/Eiffel-Toolbox
+		]"
 end -- class DEMO_BASICPATH

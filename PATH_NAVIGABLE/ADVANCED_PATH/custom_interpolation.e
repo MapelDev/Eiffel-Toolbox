@@ -1,3 +1,8 @@
+note
+    description: "Un interpolation de type quadratique, modifiable."
+    author: "Florent Perreault"
+    date: "11-7-2024"
+    revision: "1.0"
 class
     CUSTOM_INTERPOLATION
 
@@ -41,4 +46,11 @@ feature -- Implementation
             ]
         end
 
+note
+	copyright: "Copyright (c) 2024, Florent Perreault"
+	license:   "MIT"
+	source: "[
+			Eiffel Toolbox,
+			Github: https://github.com/MapelSiroup/Eiffel-Toolbox
+		]"
 end

@@ -211,4 +211,11 @@ invariant
     elements_attached: elements /= Void
     correct_size: elements.count = 4
 
-end
+note
+	copyright: "Copyright (c) 2025, KontinuumGames"
+	license:   "MIT, redistributable, keep author references"
+	source: "[
+			Eiffel Toolbox,
+			Github: https://github.com/MapelSiroup/Eiffel-Toolbox
+		]"
+end -- MATRIX 4X4

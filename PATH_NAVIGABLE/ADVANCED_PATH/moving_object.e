@@ -44,4 +44,11 @@ feature -- Implementation
     time: REAL_64
     position: TUPLE[x, y: REAL_64]
 
+note
+	copyright: "Copyright (c) 2024, Florent Perreault"
+	license:   "MIT"
+	source: "[
+			Eiffel Toolbox,
+			Github: https://github.com/MapelSiroup/Eiffel-Toolbox
+		]"
 end
